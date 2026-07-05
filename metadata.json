@@ -1,0 +1,6 @@
+{
+  "name": "PlotPoint",
+  "description": "Government Property Marketplace and Management System",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

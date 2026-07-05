@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@import "leaflet/dist/leaflet.css";
+@import "@photo-sphere-viewer/core/index.css";
+
+/* Make sure the map container has a height */
+.leaflet-container {
+  height: 100%;
+  width: 100%;
+  z-index: 10;
+}
